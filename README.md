@@ -26,7 +26,7 @@ Actualmente, estoy en la etapa práctica de mi formación, aplicando todo lo apr
       </td>
       <td align="center">
        <img src="https://usa.generation.org/wp-content/uploads/2021/03/generation-logo_NewBlue_SCREEN-01.png" height="60" alt="0.png"/><br>
-        <strong>Full Stack</strong><br>Java Developer Junior<br>
+        <br><strong>Full Stack</strong><br>Java Developer Junior<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
