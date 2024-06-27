@@ -40,6 +40,6 @@ Actualmente, estoy en la etapa práctica de mi formación, aplicando todo lo apr
 
 <h2>📖 | Lenguajes, Frameworks, y Herramientas</h2> 
 <div align="center">
-  <img src="https://i.postimg.cc/SNzk51Xm/skills-1.png" height="100%" width="fit-content" alt="4.png"/><br>
+  <img src="https://i.postimg.cc/SNzk51Xm/skills-1.png" height="100%" width="fit-content" alt="4.png"/>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
