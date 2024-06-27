@@ -39,6 +39,4 @@ Actualmente, estoy en la etapa práctica de mi formación, aplicando todo lo apr
 </div>
 
 <h2>📖 | Lenguajes, Frameworks, y Herramientas</h2> 
-<p align="center">
-  ![skills-1](https://github.com/AngelaDaza/AngelaDaza/assets/108236231/33be94b2-5588-4339-8bf3-4db71e4da2ca)
-</p>
+![skills-1](https://github.com/AngelaDaza/AngelaDaza/assets/108236231/33be94b2-5588-4339-8bf3-4db71e4da2ca)
