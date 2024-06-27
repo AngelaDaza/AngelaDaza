@@ -39,4 +39,6 @@ Actualmente, estoy en la etapa práctica de mi formación, aplicando todo lo apr
 </div>
 
 <h2>📖 | Lenguajes, Frameworks, y Herramientas</h2> 
-<img src="https://i.postimg.cc/SNzk51Xm/skills-1.png" height="180" alt="4.png"/><br>
+<div align="center">
+  <img src="https://i.postimg.cc/SNzk51Xm/skills-1.png" height="600" alt="4.png"/><br>
+</div>
