@@ -2,7 +2,7 @@
 
 <h2>📖 | Acerca de mí</h2> 
 🌐 Soy una apasionada desarrolladora web especializada en Backend. Me encanta trabajar con tecnologías como Java (versión 17), Python (versión 3.12.0), MySQL (versión 8.0) y Spring Boot (versión 3.3). Me enfoco en crear sistemas distribuidos que sean modulares, flexibles y autónomos, usando las mejores prácticas y herramientas del mundo de los microservicios.
-
+<br>
 Más allá de lo técnico, me destaco por ser una líder natural, disfruto trabajar en equipo y siempre estoy buscando soluciones creativas a los problemas. Mi habilidad para planificar estratégicamente me ha ayudado a llevar a cabo proyectos desafiantes con éxito. Estoy siempre abierta a nuevas oportunidades y emocionada por contribuir a proyectos innovadores. ¡Estoy lista para afrontar cualquier desafío y ayudar a tu equipo a alcanzar nuevas alturas!.
 
 <div align="center">
