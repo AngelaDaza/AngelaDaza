@@ -30,7 +30,7 @@ Actualmente, estoy en la etapa práctica de mi formación, aplicando todo lo apr
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Escudo_UD.svg/1200px-Escudo_UD.svg.png" height="100" alt="2.png"/><br>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Escudo_UD.svg/1200px-Escudo_UD.svg.png" height="90" alt="2.png"/><br>
         <strong>Lenguaje</strong><br>de Programación JavaScript<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
