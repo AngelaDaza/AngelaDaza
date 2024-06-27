@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 ![GifAngela (1) (1) (2)](https://github.com/AngelaDaza/AngelaDaza/assets/108236231/ebc3557e-6057-4780-b466-4fcac3e51791)
 
 <h2>📖 | Acerca de mí</h2> 
