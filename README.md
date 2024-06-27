@@ -37,3 +37,8 @@ Actualmente, estoy en la etapa práctica de mi formación, aplicando todo lo apr
     </tr>
   </table>
 </div>
+
+<h2>📖 | Lenguajes, Frameworks, y Herramientas</h2> 
+<p align="center">
+  <img src="https://andyruwruw.vercel.app/api/skills">
+</p>
