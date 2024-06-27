@@ -20,17 +20,17 @@ Actualmente, estoy en la etapa práctica de mi formación, aplicando todo lo apr
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://iedjuanxxiii.edu.co/wp-content/uploads/2013/12/sena.png" height="40" alt="1.png"/>
+        <img src="https://iedjuanxxiii.edu.co/wp-content/uploads/2013/12/sena.png" height="60" alt="1.png"/><br>
         <strong>Tecnólogo</strong><br>en Análisis y Desarrollo de Software<br>
         <img src="https://progress-bar.dev/90/" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://usa.generation.org/wp-content/uploads/2021/03/generation-logo_NewBlue_SCREEN-01.png" height="40" alt="0.png"/>
+       <img src="https://usa.generation.org/wp-content/uploads/2021/03/generation-logo_NewBlue_SCREEN-01.png" height="60" alt="0.png"/><br>
         <strong>Full Stack</strong><br>Java Developer Junior<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Escudo_UD.svg/1200px-Escudo_UD.svg.png" height="40" alt="2.png"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Escudo_UD.svg/1200px-Escudo_UD.svg.png" height="60" alt="2.png"/><br>
         <strong>Lenguaje</strong><br>de Programación JavaScript<br>
         <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
       </td>
