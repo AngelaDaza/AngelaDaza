@@ -1,4 +1,3 @@
-![GifAngela (1) (1) (2)](https://github.com/AngelaDaza/AngelaDaza/assets/108236231/ebc3557e-6057-4780-b466-4fcac3e51791)
 <div align="center">
   <img src="https://i.postimg.cc/CKMMj3JY/Gif-Angela.gif" height="100%" width="fit-content" alt="5.png"/>
 </div>
