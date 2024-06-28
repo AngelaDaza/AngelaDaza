@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.postimg.cc/CKMMj3JY/Gif-Angela.gif" height="100%" width="fit-content" alt="5.png"/>
+  <img alt="img-banner" src="https://i.postimg.cc/CKMMj3JY/Gif-Angela.gif" />
+  <br/>
 </div>
 <h2>📖 | Acerca de mí</h2> 
 🌐 Soy una apasionada desarrolladora web especializada en Backend. Me encanta trabajar con tecnologías como Java (versión 17), Python (versión 3.12.0), MySQL (versión 8.0) y Spring Boot (versión 3.3). Me enfoco en crear sistemas distribuidos que sean modulares, flexibles y autónomos, usando las mejores prácticas y herramientas del mundo de los microservicios.
