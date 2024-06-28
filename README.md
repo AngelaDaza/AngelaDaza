@@ -1,7 +1,4 @@
-<div align="center">
-  <img alt="img-banner" src="https://i.postimg.cc/CKMMj3JY/Gif-Angela.gif" />
-  <br/>
-</div>
+![GifAngela (1) (1) (2)](https://github.com/AngelaDaza/AngelaDaza/assets/108236231/ebc3557e-6057-4780-b466-4fcac3e51791)
 <h2>📖 | Acerca de mí</h2> 
 🌐 Soy una apasionada desarrolladora web especializada en Backend. Me encanta trabajar con tecnologías como Java (versión 17), Python (versión 3.12.0), MySQL (versión 8.0) y Spring Boot (versión 3.3). Me enfoco en crear sistemas distribuidos que sean modulares, flexibles y autónomos, usando las mejores prácticas y herramientas del mundo de los microservicios.
 <br>
